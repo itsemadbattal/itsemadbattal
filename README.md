@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 Hey it's Emad. Software developer with a big passion for technology💻.<br>I mainly develop web applications.<br>I build backend apps with NodeJS/ExpressJS.<br>I am currently extending my knowledge to building with ReactJS.<br><br>Oh and I play guitar and love gaming 🎸🎮.
 
@@ -21,4 +22,4 @@ Hey it's Emad. Software developer with a big passion for technology💻.<br>I ma
 ---
 [![](https://visitcount.itsvg.in/api?id=emadbattal77&icon=5&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
