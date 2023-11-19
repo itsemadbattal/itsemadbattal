@@ -21,6 +21,6 @@ Hey it's Emad. Software developer with a big passion for technology💻.<br>I ma
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=emadbattal77&icon=5&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=itsemadbattal&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
