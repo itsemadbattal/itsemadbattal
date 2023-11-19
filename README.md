@@ -1,5 +1,5 @@
 <div align="center">
-# 💫 About Me:
+# 💫 About Me: <br>
 Hey it's Emad. Software developer with a big passion for technology💻.<br>I mainly develop web applications.<br>I build backend apps with NodeJS/ExpressJS.<br>I am currently extending my knowledge to building with ReactJS.<br><br>Oh and I play guitar and love gaming 🎸🎮.
 
 
