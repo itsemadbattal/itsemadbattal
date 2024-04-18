@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey it's Emad. Software developer with a big passion for technology💻.<br>I mainly develop web applications.<br>I build backend apps with NodeJS/ExpressJS.<br>I create cool looking UIs with React.<br>I am currently learning GoLang.<br><br>Oh and I play guitar and love gaming 🎸🎮.
+Hey it's Emad. Software developer with a big passion for technology💻.<br>I mainly develop web applications.<br>I build backend apps with NodeJS/ExpressJS.<br>I create cool looking UIs with ReactJS/VueJS.<br>I am currently learning GoLang.<br><br>Oh and I play guitar and love gaming 🎸🎮.
 
 
 ## 🌐 Socials:
